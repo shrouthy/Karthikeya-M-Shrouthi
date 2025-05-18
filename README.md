@@ -38,4 +38,4 @@ I've worked on diverse, hands-on data projects that span industries, tools, and 
 
 ---
 
-**I don’t just work with data—I turn it into direction.**
+**I turn raw data into clear answers that help people make smarter decisions.**

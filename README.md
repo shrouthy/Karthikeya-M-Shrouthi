@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Karthikeya
 
-I'm a curious-minded **Data Analyst** from Bengaluru who believes that *every number hides a story*—and I love bringing those stories to life!
+I'm a curious-minded **Data Analyst** from Bengaluru who believes that *every number hides a story* and I love bringing those stories to life!
 
 With a strong foundation in **SQL, Python, Excel, Power BI, and Tableau**, I transform raw data into insights that drive real-world business decisions.
 
